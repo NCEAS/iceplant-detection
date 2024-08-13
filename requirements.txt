@@ -1,0 +1,10 @@
+numpy==1.26.4
+albumentations==1.4.8
+matplotlib==3.9.0
+opencv-python==4.10.0.82
+torch==2.3.1
+torchvision==0.18.1
+torchmetrics==1.4.0
+lightning==2.3.0
+tqdm==4.66.4
+tensorboard==2.17.0
